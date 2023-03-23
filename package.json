@@ -1,0 +1,26 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "malek w hamaza w walid w jma3a",
+  "main": "index.js",
+  "scripts": {
+    "test": "safa mayhemech",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "drgoman86"
+  },
+  "keywords": [
+    "rien"
+  ],
+  "author": "jma3a",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-generator": "^4.16.1",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2",
+    "save": "^2.9.0"
+  }
+}
